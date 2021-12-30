@@ -12,10 +12,10 @@ My name is Ankur. I am an AIUB undergraduate student. Now I'm in my final semest
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankur-saha-3b3a4b169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankur-saha-3b3a4b169/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ankur.saha.790/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ankur.saha.790/" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/sahaankur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/sahaankur" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/ankursaha2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ankursaha2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankur-saha-3b3a4b169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankur-saha-3b3a4b169/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ankur.saha.790/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ankur.saha.790/" height="30" width="40" /></a>
+<a href="https://dribbble.com/sahaankur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/sahaankur" height="30" width="40" /></a>
+<a href="https://www.behance.net/ankursaha2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ankursaha2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
